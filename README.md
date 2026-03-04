@@ -1,8 +1,8 @@
-#Olá, Meu primeiro desafio de automação
+# Olá, Meu primeiro desafio de automação
 Este é o projeto que desenvolvi para o desafio de QA Junior. Como estou em constante aprendizado, foquei em criar a estrutura organizada e funcional com o Playwright e o Typescript, como foi a primeira vez que utilizei estas ferramentas, precisei entender como funcionava utilizando ajuda do Google e da documentação.
-##O que eu fiz neste projeto ?
+## O que eu fiz neste projeto ?
 Organização com Pages para não deixar o código bagunçado, separei os elementos da tela, (botões e campos) da lógica dos testes. Na Pasta /pages está o mapa de cada página, para Obs: caso o servidor mude ou aconteça alguma alteração no site, eu não preciso alterar todo o código, apenas nesse lugar.
-##Tetes de Tela (Front-end)
+## Tetes de Tela (Front-end)
 * Automatizei o Login, testando o que acontece quando digitamos a senha errada.
 * Usei o ignoreCase para o teste não falhar por uma letra maiúscula ou minúscula.
 ## Testes de API (Back-end)
